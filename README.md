@@ -15,6 +15,6 @@ My progress in my own challenge: "100 days of Natural Language Processing with D
  
 **Today's Progress** : Assignment 01 - CS224N - Deep Learning for Natural Language Processing
 
-**Thoughts** : I worked with glove-twitter-25 database, and I don't use glove-twitter-25 database, because hardware limitations.
+**Thoughts** : I worked with glove-twitter-25 database, and I don't use glove-twitter-25 database, because of hardware limitations.
  
-**Link of Work:** [Commit - Assignment 1 - CS224N]()
+**Link of Work:** [Commit - Assignment 1 - CS224N](https://github.com/marbramen/100DaysOfNLP-DL_Code/blob/master/Day%202%20-%20Exploring%20Word%20Vectors%20-%20CS224N%20-%20Assignment%201.ipynb)
