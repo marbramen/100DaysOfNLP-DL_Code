@@ -18,3 +18,12 @@ My progress in my own challenge: "100 days of Natural Language Processing with D
 **Thoughts** : I worked with glove-twitter-25 database, and I don't use glove-twitter-25 database, because of hardware limitations.
  
 **Link of Work:** [Commit - Assignment 1 - CS224N](https://github.com/marbramen/100DaysOfNLP-DL_Code/blob/master/Day%202%20-%20Exploring%20Word%20Vectors%20-%20CS224N%20-%20Assignment%201.ipynb)
+
+
+## Day 03 : Janaury 27 , 2019
+ 
+**Today's Progress** : Word Embedding with Deep Learning using Pytorch.
+
+**Thoughts** : I read the tutorial Word Embeddings: Encoding Lexical Semantics of Pytorch.
+ 
+**Link of Work:** [Commit - Basic Pytorch]()
