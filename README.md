@@ -26,4 +26,4 @@ My progress in my own challenge: "100 days of Natural Language Processing with D
 
 **Thoughts** : I read the tutorial Word Embeddings: Encoding Lexical Semantics of Pytorch.
  
-**Link of Work:** [Commit - Basic Pytorch]()
+**Link of Work:** [Commit - Basic Pytorch](https://github.com/marbramen/100DaysOfNLP-DL_Code/blob/master/Day%203%20-%20Basic%20PyTorch%20NLP%20DeepLearning.ipynb)
